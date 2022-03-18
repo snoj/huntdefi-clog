@@ -5,7 +5,7 @@ Notes on the current state of [Hunt Defi](https://huntdefi.finance/) compiled fr
 
 Pools in batches 1-5 feature teams of 2 [Craboids](https://docs.crabada.com/game-guide/crabadex/craboid) and 1 [Prime](https://docs.crabada.com/game-guide/crabadex/prime). Batch 6 pools however are composed if 2 [Prime](https://docs.crabada.com/game-guide/crabadex/prime) and 1 [Bulk](https://docs.crabada.com/game-guide/crabadex/bulk). This change was because the cost of crabs had gone up and to do the same team would have been an even lower ROI.
 
-| Batch      | TUS @ Crab purchase | Pool Size | Expected ROI
+| Batch      | TUS @ Crab purchase | Pool Size | Current Expected ROI
 | ----------- | ----------- | --- | --- |
 | 1      |  $0.20       | $65000 | 1.4% (originally 1%) |
 | 2      |  $0.22       | $70000 | 1.4% |
@@ -22,16 +22,20 @@ Distributions of TUS to NFT owners appears to start around 23:00 GMT.
 
 ROI is not based on the USDC.e deposited into a pool, but on the TUS that USDC.e bought. This has caused some confusion as participants of earlier batches saw reduced USD returns when the price of TUS fell in the weeks following those first batches.
 
-So take Batch 1, it was approximately 325,000 TUS ($65,000/0.20). 1% (inital ROI at launch) would have been 3,250 TUS/day. For every $100 (0.153% of pool), that would be ~32 TUS/day return.
+Take Batch 1 for example, it was approximately 325,000 TUS ($65,000/0.20). 1% (inital ROI at launch) would have been 3,250 TUS/day. For every $100 (0.153% of pool), that would be ~5 TUS/day return.
 
-This formula provides a rough estimate for what rewards you should expect. There is a [calculator located here](https://ipfs.io/ipfs/QmZwxEjRdpTRDkUT32fCkFBzZvAgrhmarHptebFFBykXPQ) that uses this.
+This formula provides a rough estimate for what rewards you should expect. There is a [calculator located here](https://ipfs.io/ipfs/QmZwxEjRdpTRDkUT32fCkFBzZvAgrhmarHptebFFBykXPQ) that uses it to approximate the returns that should be seen.
 ```
 (HuntPoolSize / TUSPriceAtCrabBuy / (HuntPoolSize/SharePrice) * (PoolROI/100) * (HuntPoolSize / SharePrice * (PercentOfPoolOwned/100)))
 ```
 
+## CCC's fee/cut
+
+While kinks are being ironed out and due to the decreased TUS price, CCC has waived their 15% cut/fee that would flow into the CCC treasury.
+
 ### Other considerations on returns
 
-Mid March 2022, the CCC mining bots were updated with the ability to reinforce against looting raids from the tavern. This has had an inpact on returns and is not reflected in the [Rewards](https://huntdefi.finance/rewards) page.
+Mid March 2022, the CCC mining bots were updated with the ability to reinforce against looting raids from the tavern. This has had an impact on returns and is not reflected in the [Rewards](https://huntdefi.finance/rewards) page.
 
 # Secondary Markets
 
