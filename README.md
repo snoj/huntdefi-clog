@@ -5,14 +5,14 @@ Notes on the current state of [Hunt Defi](https://huntdefi.finance/) compiled fr
 
 Pools in batches 1-5 feature teams of 2 [Craboids](https://docs.crabada.com/game-guide/crabadex/craboid) and 1 [Prime](https://docs.crabada.com/game-guide/crabadex/prime). Batch 6 pools however are composed if 2 [Prime](https://docs.crabada.com/game-guide/crabadex/prime) and 1 [Bulk](https://docs.crabada.com/game-guide/crabadex/bulk). This change was because the cost of crabs had gone up and to do the same team would have been an even lower ROI.
 
-| Batch      | TUS @ Crab purchase | Pool Size | Current Expected ROI
-| ----------- | ----------- | --- | --- |
-| 1      |  $0.20       | $65000 | 1.4% (originally 1%) |
-| 2      |  $0.22       | $70000 | 1.4% |
-| 3      |  $0.16       | $55000 | 1.4% |
-| 4      |  $0.16       | $55000 | 1.4% |
-| 5      |  $0.08       | $37500 | 1.4% |
-| 6      |  $0.10       | $42500 | 1.1% |
+| Batch      | TUS @ Crab purchase | Pool Size | Current Expected ROI | TEam Tracker |
+| ----------- | ----------- | --- | --- | --- |
+| 1      |  $0.20       | $65000 | 1.4% (originally 1%) | [0x9da9](https://crabadatracker.app/profile/0x9da9feb8fad6a9a98594825d14f13cde3ca8fd3e) |
+| 2      |  $0.22       | $70000 | 1.4%                 | [0xdef7](https://crabadatracker.app/profile/0xdef7cb0eaa0db7af60dfe90e2b1665441a44d7c1) |
+| 3      |  $0.16       | $55000 | 1.4%                 | [0xd42a](https://crabadatracker.app/profile/0xd42a401d2762d8b22dba1bada7f9970457bcfac6) |
+| 4      |  $0.16       | $55000 | 1.4%                 | [0xd109](https://crabadatracker.app/profile/0xd1090cfccaf7381db44b06a937a90780d2c61304) |
+| 5      |  $0.08       | $37500 | 1.4%                 | [0x0e9c](https://crabadatracker.app/profile/0x0e9ceb3ea6c16d7cc0ad00927e6f038fb3b95525) |
+| 6      |  $0.10       | $42500 | 1.1%                 | [0x07b6](https://crabadatracker.app/profile/0x07b6228e674ed8875a9b57db8c06f5bcea9f3f15) |
 
 ## Distributions
 
