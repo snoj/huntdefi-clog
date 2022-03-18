@@ -29,7 +29,7 @@ This formula provides a rough estimate for what rewards you should expect. There
 (HuntPoolSize / TUSPriceAtCrabBuy / (HuntPoolSize/SharePrice) * (PoolROI/100) * (HuntPoolSize / SharePrice * (PercentOfPoolOwned/100)))
 ```
 
-## CCC's fee/cut
+### CCC's fee/cut
 
 While kinks are being ironed out and due to the decreased TUS price, CCC has waived their 15% cut/fee that would flow into the CCC treasury.
 
