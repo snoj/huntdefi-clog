@@ -18,6 +18,8 @@ Pools in batches 1-5 feature teams of 2 [Craboids](https://docs.crabada.com/game
 
 Distributions of TUS to NFT owners appears to start around 23:00 GMT.
 
+According to Chief, there are different bots that handle the game than TUS distribution. The assumption is that the reason some distributions error out and don't occur on some days is due to nonce conflicts from each bot trying to send a transaction around the same time. Chief stated that in that instance, the funds are send the next day.
+
 ## ROI
 
 ROI is not based on the USDC.e deposited into a pool, but on the TUS that USDC.e bought. This has caused some confusion as participants of earlier batches saw reduced USD returns when the price of TUS fell in the weeks following those first batches.
