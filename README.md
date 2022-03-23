@@ -33,7 +33,12 @@ This formula provides a rough estimate for what rewards you should expect. There
 
 ### CCC's fee/cut
 
-While kinks are being ironed out and due to the decreased TUS price, CCC has waived their 15% cut/fee that would flow into the CCC treasury.
+CCC announced that their fee will be reinstated on 3/23/22. It is unknown on when it is calculated.
+
+```
+(GrossTUS - ReinforcementFees) - CCCFee
+(GrossTUS - CCCFee) - ReinforcementFees
+```
 
 ### Other considerations on returns
 
