@@ -44,6 +44,9 @@ CCC announced that their fee will be reinstated on 3/23/22. It is unknown on whe
 
 Mid March 2022, the CCC mining bots were updated with the ability to reinforce against looting raids from the tavern. This has had an impact on returns and is not reflected in the [Rewards](https://huntdefi.finance/rewards) page.
 
+### Pivots
+According to chiefreflektooorrr, pools can pivot to other strategies in Crabada or even liquidate and do something else. Eg. If battle will be a better use of the teams and roi, they can pivot to do that instead of the idle game.
+
 # Secondary Markets
 
 Hunt NFT's can be sold on the secondary market on [Kalao](https://marketplace.kalao.io/collection/0x3b50d61ab8752a10df0ec588b7cd40efc4accf00). While an NFT is listed on this marketplace, you will not receive TUS. While it has not occured for a while, it is assumed that the Kalao contract would receive the TUS.
