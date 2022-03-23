@@ -44,7 +44,7 @@ CCC announced that their fee will be reinstated on 3/23/22. It is unknown on whe
 
 Mid March 2022, the CCC mining bots were updated with the ability to reinforce against looting raids from the tavern. This has had an impact on returns and is not reflected in the [Rewards](https://huntdefi.finance/rewards) page.
 
-### Pivots
+## Pivots
 According to chiefreflektooorrr, pools can pivot to other strategies in Crabada or even liquidate and do something else. Eg. If battle will be a better use of the teams and roi, they can pivot to do that instead of the idle game.
 
 # Secondary Markets
