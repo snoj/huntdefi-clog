@@ -13,13 +13,11 @@ Pools in batches 1-5 feature teams of 2 [Craboids](https://docs.crabada.com/game
 | 4      |  $0.16       | $55000 | 1.4%                 | [0xd109](https://crabadatracker.app/profile/0xd1090cfccaf7381db44b06a937a90780d2c61304) |
 | 5      |  $0.08       | $37500 | 1.4%                 | [0x0e9c](https://crabadatracker.app/profile/0x0e9ceb3ea6c16d7cc0ad00927e6f038fb3b95525) |
 | 6      |  $0.10       | $42500 | 1.1%                 | [0x07b6](https://crabadatracker.app/profile/0x07b6228e674ed8875a9b57db8c06f5bcea9f3f15) |
-| 6      |  $0.126      | $46200 | 1.2%                 |  |
+| 6      |  $0.126      | $46200 | 1.2%                 | [0x01d7](https://crabadatracker.app/profile/0x01d778e7de7e05b541b8c596fb579030ce4db291) |
 
 ## Distributions
 
-Distributions of TUS to NFT owners appears to start around 23:00 GMT.
-
-According to Chief, there are different bots that handle the game than TUS distribution. The assumption is that the reason some distributions error out and don't occur on some days is due to nonce conflicts from each bot trying to send a transaction around the same time. Chief stated that in that instance, the funds are send the next day.
+Distributions of TUS to NFT owners appears to start around 23:00 GMT. (Nonce conflicts are no longer an issue according to chief)
 
 ## ROI
 
