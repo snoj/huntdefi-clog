@@ -60,3 +60,4 @@ Generally given advice is to only sell if you need the cash and only buy if the 
 * [Hunt ROI calculator](https://ipfs.io/ipfs/QmZwxEjRdpTRDkUT32fCkFBzZvAgrhmarHptebFFBykXPQ)
 * [TUS Price chart](https://dexscreener.com/avalanche/0x565d20bd591b00ead0c927e4b6d7dd8a33b0b319)
 * [Tampermonkey script for huntdefi/adv](https://k51qzi5uqu5dl05p70ja8uwvsnlsl9gidm7mfy67ol2xnc19be7hq4cnecvr13.ipns.dweb.link/)
+* [web3less rewards tracker](https://k51qzi5uqu5dhi0adgmod9uk55nzrb6b0cl3w8nnernwdoc0jak92nv9t4y33s.ipns.dweb.link/)
