@@ -1,11 +1,11 @@
 # huntdefi-clog
 Notes on the current state of [Hunt Defi](https://huntdefi.finance/) compiled from the discord, twitter, and other methods.
 
-# Batches & Pools (1-6) : Crabada Idle Game
+# Batches & Pools (1-7) : Crabada Idle Game
 
 Pools in batches 1-5 feature teams of 2 [Craboids](https://docs.crabada.com/game-guide/crabadex/craboid) and 1 [Prime](https://docs.crabada.com/game-guide/crabadex/prime). Batch 6 pools however are composed if 2 [Prime](https://docs.crabada.com/game-guide/crabadex/prime) and 1 [Bulk](https://docs.crabada.com/game-guide/crabadex/bulk). This change was because the cost of crabs had gone up and to do the same team would have been an even lower ROI.
 
-| Batch      | TUS @ Crab purchase | Pool Size | Current Expected ROI | TEam Tracker |
+| Batch      | TUS @ Crab purchase | Pool Size | Current Expected ROI | Team Tracker |
 | ----------- | ----------- | --- | --- | --- |
 | 1      |  $0.20       | $65000 | 1.4% (originally 1%) | [0x9da9](https://crabadatracker.app/profile/0x9da9feb8fad6a9a98594825d14f13cde3ca8fd3e) |
 | 2      |  $0.22       | $70000 | 1.4%                 | [0xdef7](https://crabadatracker.app/profile/0xdef7cb0eaa0db7af60dfe90e2b1665441a44d7c1) |
