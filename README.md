@@ -1,7 +1,7 @@
 # huntdefi-clog
 Notes on the current state of [Hunt Defi](https://huntdefi.finance/) compiled from the discord, twitter, and other methods.
 
-# Batches & Pools (1-7) : Crabada Idle Game
+# Batches & Pools (1-8) : Crabada Idle Game
 
 Pools in batches 1-5 feature teams of 2 [Craboids](https://docs.crabada.com/game-guide/crabadex/craboid) and 1 [Prime](https://docs.crabada.com/game-guide/crabadex/prime). Batch 6 pools however are composed if 2 [Prime](https://docs.crabada.com/game-guide/crabadex/prime) and 1 [Bulk](https://docs.crabada.com/game-guide/crabadex/bulk). This change was because the cost of crabs had gone up and to do the same team would have been an even lower ROI.
 
@@ -13,7 +13,8 @@ Pools in batches 1-5 feature teams of 2 [Craboids](https://docs.crabada.com/game
 | 4      |  $0.16       | $55000 | 1.4%                 | [0xd109](https://crabadatracker.app/profile/0xd1090cfccaf7381db44b06a937a90780d2c61304) |
 | 5      |  $0.08       | $37500 | 1.4%                 | [0x0e9c](https://crabadatracker.app/profile/0x0e9ceb3ea6c16d7cc0ad00927e6f038fb3b95525) |
 | 6      |  $0.10       | $42500 | 1.1%                 | [0x07b6](https://crabadatracker.app/profile/0x07b6228e674ed8875a9b57db8c06f5bcea9f3f15) |
-| 6      |  $0.126      | $46200 | 1.2%                 | [0x01d7](https://crabadatracker.app/profile/0x01d778e7de7e05b541b8c596fb579030ce4db291) |
+| 7      |  $0.126      | $46200 | 1.2%                 | [0x01d7](https://crabadatracker.app/profile/0x01d778e7de7e05b541b8c596fb579030ce4db291) |
+| 8      |  $0.08       | $30000 | 0.9%                 |  |
 
 ## Distributions
 
@@ -32,7 +33,9 @@ This formula provides a rough estimate for what rewards you should expect. There
 
 ### CCC's fee/cut
 
-CCC announced that their fee will be reinstated on 3/23/22 and then annouced that it would be lowered to 10%. It is unknown on when it is calculated.
+~~CCC announced that their fee will be reinstated on 3/23/22 and then annouced that it would be lowered to 10%.~~ Until Avax gas demands are reduced or swimmernet launches, CCC is upping their fee to 30% to cover gas.
+
+It is unknown on when the fee is calculated.
 
 ```
 (GrossTUS - ReinforcementFees) - CCCFee
