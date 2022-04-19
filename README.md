@@ -1,7 +1,7 @@
 # huntdefi-clog
 Notes on the current state of [Hunt Defi](https://huntdefi.finance/) compiled from the discord, twitter, and other methods.
 
-# Batches & Pools (1-8) : Crabada Idle Game
+# Batches & Pools (1-9) : Crabada Idle Game
 
 Pools in batches 1-5 feature teams of 2 [Craboids](https://docs.crabada.com/game-guide/crabadex/craboid) and 1 [Prime](https://docs.crabada.com/game-guide/crabadex/prime). Batch 6 pools however are composed if 2 [Prime](https://docs.crabada.com/game-guide/crabadex/prime) and 1 [Bulk](https://docs.crabada.com/game-guide/crabadex/bulk). This change was because the cost of crabs had gone up and to do the same team would have been an even lower ROI.
 
@@ -15,13 +15,15 @@ Pools in batches 1-5 feature teams of 2 [Craboids](https://docs.crabada.com/game
 | 6      |  $0.10       | $42500 | 1.1%                 | [0x07b6](https://crabadatracker.app/profile/0x07b6228e674ed8875a9b57db8c06f5bcea9f3f15) |
 | 7      |  $0.126      | $46200 | 1.2%                 | [0x01d7](https://crabadatracker.app/profile/0x01d778e7de7e05b541b8c596fb579030ce4db291) |
 | 8      |  $0.08       | $30000 | 0.9%                 | [0xb5a9](https://crabadatracker.app/profile/0xb5a943ab656bd34c8715c74ad14c63554ca74b84) |
-| 9      |  $0.066?     | $25000 | 0.9%                 |  |
+| 9      |  $0.066?     | $25000 | 0.9%                 | [0x558A](https://crabadatracker.app/profile/0x558AFdA5dD07D0898691Cef304682c5f87D8Bcf2) |
 
 ## Distributions
 
 Distributions of TUS to NFT owners appears to start around 23:00 GMT. (Nonce conflicts are no longer an issue according to chief)
 
 ## ROI
+
+**Until gas goes down or swimmernet, reinforcement of mining is suspended.**
 
 ROI is not based on the USDC.e deposited into a pool, but on the TUS that USDC.e bought. This has caused some confusion as participants of earlier batches saw reduced USD returns when the price of TUS fell in the weeks following those first batches.
 
@@ -34,7 +36,7 @@ This formula provides a rough estimate for what rewards you should expect. There
 
 ### CCC's fee/cut
 
-~~CCC announced that their fee will be reinstated on 3/23/22 and then annouced that it would be lowered to 10%.~~ Until Avax gas demands are reduced or swimmernet launches, CCC is upping their fee to 30% to cover gas.
+~~CCC announced that their fee will be reinstated on 3/23/22 and then annouced that it would be lowered to 10%. Until Avax gas demands are reduced or swimmernet launches, CCC is upping their fee to 30% to cover gas.~~ Management fee is 40% until swimmernet or gas fees subside. 
 
 It is unknown on when the fee is calculated.
 
