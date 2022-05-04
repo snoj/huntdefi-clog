@@ -16,6 +16,8 @@ Pools in batches 1-5 feature teams of 2 [Craboids](https://docs.crabada.com/game
 | 7      |  $0.126      | $46200 | 1.2%                 | [0x01d7](https://crabadatracker.app/profile/0x01d778e7de7e05b541b8c596fb579030ce4db291) |
 | 8      |  $0.08       | $30000 | 0.9%                 | [0xb5a9](https://crabadatracker.app/profile/0xb5a943ab656bd34c8715c74ad14c63554ca74b84) |
 | 9      |  $0.066?     | $25000 | 0.9%                 | [0x558A](https://crabadatracker.app/profile/0x558AFdA5dD07D0898691Cef304682c5f87D8Bcf2) |
+| 10     |  $0.02?      | $7000  | 0.9%                 | [0xde08](https://crabadatracker.app/profile/0xde08e5adc3ee23265f6406386052fc5e51b5d4f0) |
+
 
 ## Distributions
 
